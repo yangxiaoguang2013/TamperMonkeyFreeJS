@@ -1,0 +1,2 @@
+# TamperMonkeyFreeJS
+自己没事写的一些TamperMonkey运行的JS。只能用于学习，不可用于做犯法行为
